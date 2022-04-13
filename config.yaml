@@ -20,9 +20,9 @@ menu:
       name: Participants
       url: /participants/
       weight: 3
-    - identifier: presentations
-      name: Students Presentations
-      url: /presentations/
+    - identifier: enrollment
+      name: Free Enrollment
+      url: https://myenquesta.upc.edu/index.php/588713?lang=en
       weight: 4      
   topbar:
     - name: GitHub
@@ -50,8 +50,8 @@ params:
     subtitle: 'The Ph.D. Day in Management is organized by the TechTalent-Lab and sponsored by the Departament of Management of the Universitat Politècnica de Catalunya·BarcelonaTech.'
     title: Sponsors
   contact_form_ajax: no
-  copyright: Copyright (c) 2019 - 2021, TechTalent-Lab; all rights reserved.
-  date_format: January 2, 2021
+  copyright: Copyright (c) 2019 - 2022, TechTalent-Lab; all rights reserved.
+  date_format: January 2, 2022
   default_sharing_image: img/sharing-default.png
   defaultDescription: Site template made by devcows using hugo
   defaultKeywords:
